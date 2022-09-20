@@ -39,7 +39,7 @@ This fullstack project was developed with the following techs:
  We have created a dedicated environment so that programmers and programmers can connect with opportunities, study and grow in careers through a complete and continuous learning journey.
  
  ## 🎨 Layout
- You can view the project layout through [This Link]([https://www.figma.com/community/file/1120711251998877938](https://www.figma.com/community/file/1150897317533332617)). It's necessary to have a account on [Figma](http://figma.com/) to view it.
+ You can view the project layout through [This Link]([https://www.figma.com/community/file/1120711251998877938]). It's necessary to have a account on [Figma](http://figma.com/) to view it.
  
  ## ♥ Considerations 
  Rocketseat is responsible for this project, without its classes that would never be possible. Thank you Rocketseat ♥
